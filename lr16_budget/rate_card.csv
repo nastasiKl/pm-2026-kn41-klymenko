@@ -1,1 +1,6 @@
-role,fte,hours,rate,source,note
+"role","fte","hours","rate","source","note"
+"PM","0.5","280","445","https://dou.ua/lenta/articles/salary-report-managers-winter-2026/","Співвідношення PM до Dev масштабовано за медіанами DOU; ставку округлено під межу бюджету V05."
+"BA","0.5","280","410","https://dou.ua/lenta/articles/salary-report-data-winter-2026/","Розрахункова ставка за медіаною BA піднята до мінімуму 400 грн за годину."
+"Dev","1","560","520","https://dou.ua/lenta/articles/salary-report-devs-winter-2026/","Опорна роль прайсу; ставка задає масштаб годинної моделі."
+"QA","0.5","280","405","https://dou.ua/lenta/articles/salary-report-qa-winter-2026/","Розрахункова ставка за медіаною QA округлена до мінімального діапазону прайсу."
+"UX","0.5","280","400","https://dou.ua/lenta/articles/salary-report-non-tech-winter-2026/","UI/UX медіана задає нижче співвідношення; ставку обмежено підлогою 400 грн."

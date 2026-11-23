@@ -16,8 +16,12 @@
 | Варіант вхідних умов | V05 |
 | Трекер | Jira |
 | Дошка | [Продуктова Scrum-дошка](https://plan-poker-project.atlassian.net/jira/software/projects/PPS/boards/3/backlog) · [Kanban ЛР04](https://plan-poker-project.atlassian.net/jira/software/projects/KAN/boards/2?filter=&groupBy=none) |
-| Валюта проєкту | для кошторису ЛР16 |
-| Contingency, % | від прямих витрат, ЛР16 |
+| Валюта проєкту | грн |
+| Contingency, % | 6 |
+
+Вебзастосунок для командного оцінювання задач методом Planning poker. Учасники
+проводять сесії оцінювання, зберігають їхню історію, переглядають статистику
+розкиду оцінок і експортують узгоджені результати у трекер задач.
 
 ## Як влаштований репозиторій
 
